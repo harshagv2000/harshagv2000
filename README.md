@@ -6,7 +6,7 @@
 - 💬 Ask me about **Python, Machine Learning, SQL**
 
 - 📫 How to reach me **gvharsha2000@gmail.com**
-
+<img align="right" alt="Coding" width="400" src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/11/Data-Science-vs-Computer-Science.png">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/venkata-harsha-vardhan-gangala-354940178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/venkata-harsha-vardhan-gangala-354940178/" height="30" width="40" /></a>
