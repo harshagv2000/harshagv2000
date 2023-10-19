@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Venkata Harsha Vardhan Gangala</h1>
 <h3 align="center">"Data Whisperer: Uncovering Hidden Patterns in the Numbers"</h3>
-<img align="center" alt="Coding" src="https://imageio.forbes.com/specials-images/imageserve/615a844b0e678d9d11c5fc26/The-5-Biggest-Data-Science-Trends-In-2022/960x0.jpg?height=399&width=711&fit=bounds">
+
 - 🌱 I’m currently learning **Distributed ML, Kubernetes**
 
 - 💬 Ask me about **Python, Machine Learning, SQL**
 
 - 📫 How to reach me **gvharsha2000@gmail.com**
-
+<img align="center" alt="Coding" src="https://imageio.forbes.com/specials-images/imageserve/615a844b0e678d9d11c5fc26/The-5-Biggest-Data-Science-Trends-In-2022/960x0.jpg?height=399&width=711&fit=bounds">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/venkata-harsha-vardhan-gangala-354940178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/venkata-harsha-vardhan-gangala-354940178/" height="30" width="40" /></a>
